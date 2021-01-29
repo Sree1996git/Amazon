@@ -13,6 +13,7 @@ public class Student implements StudentFee {
 	else
 	
 		System.out.println("Name: "+ name +"\nFees: "+ fee);
+		System.out.println("**************");
 	}
 	public static void main(String args[])
 	{
